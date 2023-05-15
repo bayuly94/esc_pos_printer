@@ -13,6 +13,8 @@ dependencies:
   flutter_esc_pos_utils:
     git: 
       url: git@github.com:bayuly94/flutter_esc_pos_utils.git
+      ref: update_image_module
+      
   flutter:
     sdk: flutter
   # esc_pos_utils:
